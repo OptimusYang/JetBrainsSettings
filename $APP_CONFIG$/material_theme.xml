@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabFontSize" value="14" />
+    <option name="leftTreeIndent" value="0" />
+    <option name="settingsSelectedTab" value="2" />
+    <option name="accentColor" value="74a0f1" />
+    <option name="selectedTheme" value="MOONLIGHT" />
+    <option name="userId" value="-1f6c00d9:17ac1a3266d:-8000" />
+    <option name="version" value="5.5.0" />
+  </component>
+</application>

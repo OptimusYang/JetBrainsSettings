@@ -1,0 +1,5 @@
+<application>
+  <component name="com.thtfpc.plugin.setting.MybatisLogSettingsState">
+    <option name="dbType" value="postgresql" />
+  </component>
+</application>
